@@ -62,3 +62,8 @@ Mimics how organizations (IRCTC, airlines, etc.) manage data reporting systems.
 Applicable for Data Analyst roles involving SQL + SSRS.
 
 Also relevant to Business Analyst roles focused on system documentation, reporting, and requirement design.
+
+Screenshots / Demos
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](https://github.com/Sourabh-verma-01/Projects_self/blob/main/Store%20sales%20dash%20board.JPG)
+Example: ![Dashboard Preview](https://github.com/Sourabh-verma-01/Projects_self/blob/main/Store%20sales%20dash%20board.JPG)
